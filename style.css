@@ -21,7 +21,7 @@ h1,h2{
 
 .header {
 	height: 230px;
-	background-image: url(bgheader);
+	background-image: url(bgheader.png);
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: 1100px;
